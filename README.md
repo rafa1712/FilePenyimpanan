@@ -1,8 +1,5 @@
 # File Penyimpanan
-Salam sejahtera bagi kita semua,
-
-Website ini digunakan untuk penyimpanan dan pendistribusian file-file milik Rafael Feng. Semua file yang diupload disini dapat diunduh dan disebarkan secara gratis dengan mengikuti lisensi yang ada.
-
-Sekian yang dapat saya sampaikan, terima kasih.
-
-Selamat belajar.
+| No | Isi | Link |
+| --- | --- | --- |
+| 1 | Latihan Soal Teori Bilangan November 2021 #AsalComot | bit.ly/ |
+| 2 | Show file differences that haven't been staged |  d|
